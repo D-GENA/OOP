@@ -24,7 +24,7 @@ public:
             balance += amount;
             cout << "$" << amount << " Money deposited successfully.\n";
         } else {
-            cout << " Error! Please note the deposit amount must be positive.\n";
+            cout << "Error! Please note the deposit amount must be positive.\n";
         }
     }
 
@@ -52,7 +52,7 @@ public:
 int main() {
     double initialBalance;
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
-    cout << "      Welcome to XYZ Bank ATM       \n";
+    cout << "      Welcome to XYZ Bank ATM System      \n";
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
     cout << "Enter initial account balance: $";
     cin >> initialBalance;
