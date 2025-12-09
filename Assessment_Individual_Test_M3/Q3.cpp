@@ -1,3 +1,9 @@
+/*Name:Kavian Blades
+  Student ID:2401010734
+  Instructor Name:Doron Williams
+  Date:Dec 07,2025
+  Question #:3 (3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8) All done
+  */
 #include <iostream>
 #include <string>
 using std::string;
