@@ -74,7 +74,6 @@ public:
         if (Account::Withdraw(amount)) {
             balance -= transactionFee;
             cout << "Transaction fee of $" << transactionFee << "was applied.\n";
-            return true;
         }
         return false;
     }

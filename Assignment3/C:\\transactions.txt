@@ -1,0 +1,6 @@
+
+~~~~~ TRANSACTION HISTORY ~~~~~
+Withdrawal of $999.000000
+Transaction Fee of $1.000000
+Deposit of $300.000000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
